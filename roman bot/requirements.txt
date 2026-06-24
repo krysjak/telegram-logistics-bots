@@ -1,0 +1,9 @@
+aiogram==3.0.0
+easyocr
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+aiocron
+cachetools
+python-dotenv

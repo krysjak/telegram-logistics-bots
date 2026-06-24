@@ -1,0 +1,6 @@
+aiogram
+gspread
+easyocr
+google-auth
+cachetools
+aiocron
